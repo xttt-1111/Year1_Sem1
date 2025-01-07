@@ -6,4 +6,3 @@ The topics include set theory, proof techniques, relations, functions, recurrenc
 I should now able to solve the computer science problems, real world problems and to model electronic devices and problems using the knowledges I got from the topics..
 
 
-a
